@@ -1,6 +1,8 @@
 # About
 Worlde Orca Pad48 setup utility.
 
+I modify the original repo to work with my specific WORLDE
+
 # Command line arguments examples
 ### Display devices list:
 `npm run start --`
